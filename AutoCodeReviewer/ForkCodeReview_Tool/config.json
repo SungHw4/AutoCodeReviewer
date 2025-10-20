@@ -1,0 +1,8 @@
+{
+  "openai_api_key": "여기에api-key를넣으세요",
+  "model": "gpt-4o",
+  "max_tokens": 2000,
+  "temperature": 0.3,
+  "team_name": "서버개발팀",
+  "version": "Fork-Compatible"
+}
