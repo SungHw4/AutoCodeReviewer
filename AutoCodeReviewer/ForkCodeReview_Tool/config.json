@@ -3,6 +3,10 @@
   "model": "gpt-4o",
   "max_tokens": 2000,
   "temperature": 0.3,
+  "recent_days": 7,
+  "max_code_tokens": 12000,
+  "max_files": 20,
+  "max_retries": 3,
   "team_name": "서버개발팀",
-  "version": "Fork-Compatible"
+  "version": "2.0-Git-Compatible"
 }
